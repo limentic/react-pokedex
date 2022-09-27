@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+}
+
+.Page {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  max-height: 800px;
+}
